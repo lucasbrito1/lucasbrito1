@@ -1,9 +1,13 @@
-## Olá, eu me chamo Lucas Brito, desenvolvedor Front-end
+## Olá, eu me chamo Lucas Brito e atualmente sou desenvolvedor Front-end
 
 <div>
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasbrito1&show_icons=true&theme=tokyonight"/>
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasbrito1&layout=compact&theme=tokyonight"/>
 </div>
+
+##
+
+### 🚀 Tecnologias e ferramentas que utilizo:
 
 <div style="display: inline_block"><br>
   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -12,7 +16,7 @@
   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
-  
+  <img align="center" alt="" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
 </div>
   
   ##
