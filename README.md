@@ -1,8 +1,8 @@
 ## Olá, eu me chamo Lucas Brito e atualmente sou desenvolvedor Front-end
 
 <div>
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasbrito1&show_icons=true&theme=dark"/>
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasbrito1&layout=compact&theme=dark"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasbrito1&show_icons=true&theme=tokyonight"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasbrito1&layout=compact&theme=tokyonight"/>
 </div>
 
 ##
@@ -21,8 +21,8 @@
   
   ##
  
-<div>
+ ### 📱 Contato:
+<div><br>
   <a href = "mailto:lucasbrito1@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lucassbrito1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  
 </div>
