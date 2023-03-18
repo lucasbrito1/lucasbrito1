@@ -1,8 +1,6 @@
 ## Olá 👋
 
-Eu me chamo Lucas Brito<br><br>
-Desenvolvedor Front-end<br><br>
-Atualmente estudando React JS com Typescript
+Eu me chamo Lucas Brito, sou desenvolvedor front-end
 
 ##
 
