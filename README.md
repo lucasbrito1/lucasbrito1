@@ -1,4 +1,10 @@
-## Olá, eu me chamo Lucas Brito e atualmente sou desenvolvedor Front-end
+## Olá 👋
+
+Eu me chamo Lucas Brito<br><br>
+Desenvolvedor Front-end<br><br>
+Atualmente estudando React JS com Typescript
+
+##
 
 <div>
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasbrito1&show_icons=true&theme=tokyonight"/>
