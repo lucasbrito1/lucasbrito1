@@ -1,8 +1,8 @@
 ## Olá, eu me chamo Lucas Brito, desenvolvedor Front-end
 
 <div>
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasbrito1&show_icons=true&theme=dark"/>
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasbrito1&layout=compact&theme=dark"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasbrito1&show_icons=true&theme=tokyonight"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasbrito1&layout=compact&theme=tokyonight"/>
 </div>
 
 <div style="display: inline_block"><br>
