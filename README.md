@@ -15,9 +15,9 @@
 
 ### 🚀 Tecnologias e ferramentas que utilizo:
 </br>
-<div style="background-color:white">
+<div>
     <a href='https://html.com/'>
-      <img src="https://skillicons.dev/icons?i=html"/>
+      <img src="https://skillicons.dev/icons?i=html" height="30" width="40"/>
     </a>
     <a href='https://www.w3.org/Style/CSS/Overview.en.html'>
       <img src="https://skillicons.dev/icons?i=css"/>
