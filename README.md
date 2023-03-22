@@ -20,25 +20,25 @@
       <img src="https://skillicons.dev/icons?i=html" height="30" width="40"/>
     </a>
     <a href='https://www.w3.org/Style/CSS/Overview.en.html'>
-      <img src="https://skillicons.dev/icons?i=css"/>
+      <img src="https://skillicons.dev/icons?i=css" height="30" width="40"/>
     </a>
     <a href='https://www.javascript.com/'>
-      <img src="https://skillicons.dev/icons?i=js"/>
+      <img src="https://skillicons.dev/icons?i=js" height="30" width="40"/>
     </a>
     <a href='https://www.typescriptlang.org/'>
-      <img src="https://skillicons.dev/icons?i=ts"/>
+      <img src="https://skillicons.dev/icons?i=ts" height="30" width="40"/>
     </a>
     <a href='https://reactjs.org/'>
-      <img src="https://skillicons.dev/icons?i=react"/>
+      <img src="https://skillicons.dev/icons?i=react" height="30" width="40"/>
     </a>
     <a href='https://tailwindui.com/'>
-      <img src="https://skillicons.dev/icons?i=tailwind"/>
+      <img src="https://skillicons.dev/icons?i=tailwind" height="30" width="40"/>
     </a>
     <a href='https://mui.com/'>
-      <img src="https://skillicons.dev/icons?i=materialui"/>
+      <img src="https://skillicons.dev/icons?i=materialui" height="30" width="40"/>
     </a>
     <a href='https://vitejs.dev/'>
-      <img src="https://skillicons.dev/icons?i=vite"/>
+      <img src="https://skillicons.dev/icons?i=vite" height="30" width="40"/>
     </a>
 </div>
 
