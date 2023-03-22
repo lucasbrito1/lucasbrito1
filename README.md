@@ -7,8 +7,9 @@
 ##
 
 <div>
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasbrito1&show_icons=true&theme=tokyonight"/>
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasbrito1&layout=compact&theme=tokyonight"/>
+ [![GitHub Streak](https://streak-stats.demolab.com/?user=lucasbrito1)](https://git.io/streak-stats)
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasbrito1&show_icons=true&theme=github_dark"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasbrito1&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 
 ##
@@ -17,39 +18,29 @@
 </br>
 <div>
     <a href='https://html.com/'>
-      <img src="https://skillicons.dev/icons?i=html" height="30" width="40"/>
+      <img src="https://skillicons.dev/icons?i=html" height="40" width="50"/>
     </a>
     <a href='https://www.w3.org/Style/CSS/Overview.en.html'>
-      <img src="https://skillicons.dev/icons?i=css" height="30" width="40"/>
+      <img src="https://skillicons.dev/icons?i=css" height="40" width="50"/>
     </a>
     <a href='https://www.javascript.com/'>
-      <img src="https://skillicons.dev/icons?i=js" height="30" width="40"/>
+      <img src="https://skillicons.dev/icons?i=js" height="40" width="50"/>
     </a>
     <a href='https://www.typescriptlang.org/'>
-      <img src="https://skillicons.dev/icons?i=ts" height="30" width="40"/>
+      <img src="https://skillicons.dev/icons?i=ts" height="40" width="50"/>
     </a>
     <a href='https://reactjs.org/'>
-      <img src="https://skillicons.dev/icons?i=react" height="30" width="40"/>
+      <img src="https://skillicons.dev/icons?i=react" height="40" width="50"/>
     </a>
-    <a href='https://tailwindui.com/'>
-      <img src="https://skillicons.dev/icons?i=tailwind" height="30" width="40"/>
+    <a href='http://tailwindcss.com/'>
+      <img src="https://skillicons.dev/icons?i=tailwind" height="40" width="50"/>
     </a>
     <a href='https://mui.com/'>
-      <img src="https://skillicons.dev/icons?i=materialui" height="30" width="40"/>
+      <img src="https://skillicons.dev/icons?i=materialui" height="40" width="50"/>
     </a>
     <a href='https://vitejs.dev/'>
-      <img src="https://skillicons.dev/icons?i=vite" height="30" width="40"/>
+      <img src="https://skillicons.dev/icons?i=vite" height="40" width="50"/>
     </a>
-</div>
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="React JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Tailwind CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
-  <img align="center" alt="Material UI" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
 </div>
   
   ##
