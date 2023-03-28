@@ -6,12 +6,6 @@
 
 ##
 
-<div>
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasbrito1&show_icons=true&theme=github_dark"/>
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasbrito1&layout=compact&langs_count=7&theme=github_dark"/>
-</div>
-
-##
 
 ### 🚀 Tecnologias e ferramentas que utilizo:
 </br>
