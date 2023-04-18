@@ -1,4 +1,6 @@
 
+
+
 ## 🌐 Socials and Contact:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lucassbrito1)
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?logo=microsoft-outlook&logoColor=white)](mailto:lucasbrito1@hotmail.com)
@@ -19,5 +21,5 @@
 
 
 ## 📊 GitHub Stats:
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasbrito1&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"></img>
+<img height="280em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasbrito1&theme=dark"></img>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasbrito1&theme=dark&hide_border=false&include_all_commits=true&count_private=true"></img>
