@@ -1,11 +1,8 @@
+## 🌐 Contatos:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lucassbrito1)
+[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:lucasbrito1@hotmail.com)
 
-
-
-## 🌐 Socials and Contact:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lucassbrito1)
-[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?logo=microsoft-outlook&logoColor=white)](mailto:lucasbrito1@hotmail.com)
-
-## 💻 Tech Stack:
+## 💻 Tecnologias:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
@@ -22,5 +19,5 @@
 
 
 ## 📊 GitHub Stats:
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasbrito1&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"></img>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasbrito1&theme=dark&hide_border=false&include_all_commits=true&count_private=true"></img>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lucasbrito1&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"></img>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=lucasbrito1&theme=dark&hide_border=false&include_all_commits=true&count_private=true"></img>
