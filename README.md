@@ -12,8 +12,3 @@
 ![Next JS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Node JS](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-
-## 📊 GitHub Stats:
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lucasbrito1&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"></img>
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=lucasbrito1&theme=dark&hide_border=false&include_all_commits=true&count_private=true"></img>
